@@ -16,6 +16,13 @@ Read the Basics of Web Page - with Slides given on Youstart Labs site:
 
 ## Project Idea
 
+* Basic Login Page/Register Page is to be created for each project.
+* You have to make links clickable and navigation should be working.
+* you will also have to make a header in which you can show user acoount and logout.
+* Additionally, you can make user profile page and link it to header.
+
+Note : All of the pages are given in zip archive. Remove un-necessary part of the code. Please don't mess with JS/CSS files imported in HEAD of HTML for now.
+
 ### Photogram
 
 A simple instagram styled web page to upload and like photos.
