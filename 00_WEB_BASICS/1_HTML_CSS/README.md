@@ -1,4 +1,4 @@
-# Web Basic - Youstart Labs
+# HTML/CSS Basic - Youstart Labs
 
 Read the Basics of Web Page - with Slides given on Youstart Labs site:
 
