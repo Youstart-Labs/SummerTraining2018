@@ -24,15 +24,19 @@ A simple instagram styled web page to upload and like photos.
 ### E-Shoppie
 
 A simple e-commerce listing and cart functionality site.
+[Screen](./screens/eshoppie.png)
 
 ### TaskRunner
 
 A simple card based task board with swimlanes to add/move task cards.
+[Screen](./screens/taskrunner.png)
 
 ### Blogr
 
 A simple blog with functionality of adding a blog and reading a blog.
+[Screen](./screens/bloggr.png)
 
 ### Twtr
 
 A simple micro-blogging page which other can follow/comment on.
+[Screen](./screens/twtr.png)
