@@ -1,4 +1,4 @@
-# HTML Sample - Youstart Labs
+# Web Basic - Youstart Labs
 
 Read the Basics of Web Page - with Slides given on Youstart Labs site:
 
@@ -19,7 +19,7 @@ Read the Basics of Web Page - with Slides given on Youstart Labs site:
 ### Photogram
 
 A simple instagram styled web page to upload and like photos.
-[Screen](../screens/photogram.png)
+[Screen](./screens/photogram.png)
 
 ### E-Shoppie
 
