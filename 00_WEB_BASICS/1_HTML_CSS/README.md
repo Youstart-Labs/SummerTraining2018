@@ -1,4 +1,4 @@
-# HTML/CSS Basic - Youstart Labs
+# HTML/CSS Basics - Youstart Labs
 
 Read the Basics of Web Page - with Slides given on Youstart Labs site:
 
@@ -50,5 +50,5 @@ A simple micro-blogging page which other can follow/comment on.
 
 ### Links
 
-Site : [Youstart Labs](https://www.youstartlabs.in)
-Facebook : [Youstart Labs FB Page](https://www.facebook.com/youstartlabs)
+* Site : [Youstart Labs](https://www.youstartlabs.in)
+* Facebook : [Youstart Labs FB Page](https://www.facebook.com/youstartlabs)
