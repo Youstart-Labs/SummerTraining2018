@@ -52,3 +52,15 @@ A simple micro-blogging page which other can follow/comment on.
 
 * Site : [Youstart Labs](https://www.youstartlabs.in)
 * Facebook : [Youstart Labs FB Page](https://www.facebook.com/youstartlabs)
+
+## Bootstrap 4
+
+* Bootstrap Grid : [Grid](https://getbootstrap.com/docs/4.0/layout/grid/)
+* Flex Layout : [W3C link](https://www.w3schools.com/bootstrap4/bootstrap_flex.asp)
+
+Checkout the screens given in `layouts` folder and try to implement them from scratch using bootstrap 4. You can change colors and images/text etc. However look of page should be same in terms of postionig of elements.
+
+* [Screen 1](./layouts/screen1.jpg)
+* [Screen 2](./layouts/screen2.jpg)
+* [Screen 3](./layouts/screen3.jpg)
+* [Overall Page](./layouts/complete.png)
