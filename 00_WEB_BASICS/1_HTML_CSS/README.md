@@ -55,6 +55,7 @@ A simple micro-blogging page which other can follow/comment on.
 
 ## Bootstrap 4
 
+* Tabler docs : [Tabler Github](https://tabler.github.io/tabler/docs/index.html)
 * Bootstrap Grid : [Grid](https://getbootstrap.com/docs/4.0/layout/grid/)
 * Flex Layout : [W3C link](https://www.w3schools.com/bootstrap4/bootstrap_flex.asp)
 
