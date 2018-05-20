@@ -58,6 +58,7 @@ A simple micro-blogging page which other can follow/comment on.
 * Tabler docs : [Tabler Github](https://tabler.github.io/tabler/docs/index.html)
 * Bootstrap Grid : [Grid](https://getbootstrap.com/docs/4.0/layout/grid/)
 * Flex Layout : [W3C link](https://www.w3schools.com/bootstrap4/bootstrap_flex.asp)
+* Use Bootstrap search bar to search topics like Spacing, Containers, Layout, Colors, Background Colors, Flex to understand how the below given assignment can be completed.
 
 Checkout the screens given in `layouts` folder and try to implement them from scratch using bootstrap 4. You can change colors and images/text etc. However look of page should be same in terms of postionig of elements.
 
@@ -65,3 +66,8 @@ Checkout the screens given in `layouts` folder and try to implement them from sc
 * [Screen 2](./layouts/screen2.jpg)
 * [Screen 3](./layouts/screen3.jpg)
 * [Overall Page](./layouts/complete.png)
+* [Sample Code for Beginners](./bootstrap-project.zip)
+
+Assignment Completion Credits :
+
+* Piyush Yadav [Github Link](https://www.github.com/PiyushYadav/Assign01BootstrapTemplate)
