@@ -77,6 +77,7 @@ Checkout the screens given in `layouts` folder and try to implement them from sc
 * HTML/CSS Basics Tutorial [Github Link](https://github.com/cassidoo/HTML-CSS-Tutorial)
 * A curated list of awesome frameworks, style guide and other cool nuggets for the amazing CSS. [Github Link](https://github.com/awesome-css-group/awesome-css)
 * CSS Learning resources [Github Link](https://github.com/micromata/awesome-css-learning#css-in-a-nutshell)
+* Chrome Devtools Course [Earn a Badge Here](https://www.codeschool.com/courses/discover-devtools)
 
 ### Assignment 2 Completion Credits :
 
