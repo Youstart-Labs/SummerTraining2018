@@ -14,7 +14,9 @@ Read the Basics of Web Page - with Slides given on Youstart Labs site:
 * Use `http-server` command in `cmd` or `terminal`. Make sure you run the command from inside of `dist` directory of tabler-dev.
 * Open `http://localhost:8080` in your chrome browser to checkout the screens
 
-## Project Idea
+## MiniProject 1 [ Assignment 1 + 2 + 3 + 4]
+
+### Assignment 1
 
 * Basic Login Page/Register Page is to be created for each project.
 * You have to make links clickable and navigation should be working.
@@ -48,7 +50,17 @@ A simple blog with functionality of adding a blog and reading a blog.
 A simple micro-blogging page which other can follow/comment on.
 [Screen](./screens/twtr.png)
 
-## Links
+## Assignment 2
+
+Checkout the screens given in `layouts` folder and try to implement them from scratch using bootstrap 4. You can change colors and images/text etc. However look of page should be same in terms of postionig of elements.
+
+* [Screen 1](./layouts/screen1.jpg)
+* [Screen 2](./layouts/screen2.jpg)
+* [Screen 3](./layouts/screen3.jpg)
+* [Overall Page](./layouts/complete.png)
+* [Sample Code for Beginners](./bootstrap-project.zip)
+
+## Our Links
 
 * Site : [Youstart Labs](https://www.youstartlabs.in)
 * Facebook : [Youstart Labs FB Page](https://www.facebook.com/youstartlabs)
@@ -60,14 +72,12 @@ A simple micro-blogging page which other can follow/comment on.
 * Flex Layout : [W3C link](https://www.w3schools.com/bootstrap4/bootstrap_flex.asp)
 * Use Bootstrap search bar to search topics like Spacing, Containers, Layout, Colors, Background Colors, Flex to understand how the below given assignment can be completed.
 
-Checkout the screens given in `layouts` folder and try to implement them from scratch using bootstrap 4. You can change colors and images/text etc. However look of page should be same in terms of postionig of elements.
+## Additional HTML/CSS resources
 
-* [Screen 1](./layouts/screen1.jpg)
-* [Screen 2](./layouts/screen2.jpg)
-* [Screen 3](./layouts/screen3.jpg)
-* [Overall Page](./layouts/complete.png)
-* [Sample Code for Beginners](./bootstrap-project.zip)
+* HTML/CSS Basics Tutorial [Github Link](https://github.com/cassidoo/HTML-CSS-Tutorial)
+* A curated list of awesome frameworks, style guide and other cool nuggets for the amazing CSS. [Github Link](https://github.com/awesome-css-group/awesome-css)
+* CSS Learning resources [Github Link](https://github.com/micromata/awesome-css-learning#css-in-a-nutshell)
 
-### Assignment Completion Credits :
+### Assignment 2 Completion Credits :
 
 * Piyush Yadav [Github Link](https://www.github.com/PiyushYadav/Assign01BootstrapTemplate)
