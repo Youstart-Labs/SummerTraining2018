@@ -68,6 +68,6 @@ Checkout the screens given in `layouts` folder and try to implement them from sc
 * [Overall Page](./layouts/complete.png)
 * [Sample Code for Beginners](./bootstrap-project.zip)
 
-###Assignment Completion Credits :
+### Assignment Completion Credits :
 
 * Piyush Yadav [Github Link](https://www.github.com/PiyushYadav/Assign01BootstrapTemplate)
