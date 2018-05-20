@@ -16,7 +16,7 @@ Read the Basics of Web Page - with Slides given on Youstart Labs site:
 
 ## MiniProject 1 [ Assignment 1 + 2 + 3 + 4]
 
-### Assignment 1
+## Assignment 1
 
 * Basic Login Page/Register Page is to be created for each project.
 * You have to make links clickable and navigation should be working.
