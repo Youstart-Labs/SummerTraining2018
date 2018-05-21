@@ -89,3 +89,5 @@ Checkout the screens given in `layouts` folder and try to implement them from sc
 * Ruchi Jain [Github Link](https://github.com/Ruchijain1606/first-project)
 * Piyush Jain [Github Link](https://github.com/Piyushjain78/Assignment1)
 * Pranjul [Github Link](https://github.com/pranjulgupta/assignment001)
+* Nitisha Jain [Github Link](https://github.com/Nitisha-Jain/Bootstrap_project)
+* Harshita Gupta [Github Link](https://github.com/harshita2504/bootsrtap)
