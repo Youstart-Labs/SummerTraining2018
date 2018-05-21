@@ -13,7 +13,7 @@ Read the Basics of JS  -  Slides given on Youstart Labs site:
 
 ## Assignment 3 - JS Problems
 
-### All assignment should be submitted in a single file like `index.js` with every solution as a function e.g. problem 1 can have `function solution1(){ your code }` . ** marked problem are most important.
+### All assignment should be submitted in one file like `index.js` with every solution as a function e.g. problem 1 can have `function solution1(){ your code }` . ** marked problem are most important.
 
 1. Write a JavaScript program to find the area of a triangle where lengths of the three of its sides are 5, 6, 7.
 
