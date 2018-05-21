@@ -82,3 +82,10 @@ Checkout the screens given in `layouts` folder and try to implement them from sc
 ### Assignment 2 Completion Credits :
 
 * Piyush Yadav [Github Link](https://www.github.com/PiyushYadav/Assign01BootstrapTemplate)
+* Vicky Kumar Bairwa [Github Link](https://github.com/VISH-KUMAR/Assign01BST)
+* Mohit Sharma [Github Link](https://github.com/mohitsharma23/bootstrap-template)
+* Shikhar [Github Link](https://github.com/Shikhar1401/bootstrap/tree/master)
+* Rohit Soni [Github Link](https://github.com/Ronny7/Assignment1)
+* Ruchi Jain [Github Link](https://github.com/Ruchijain1606/first-project)
+* Piyush Jain [Github Link](https://github.com/Piyushjain78/Assignment1)
+* Pranjul [Github Link](https://github.com/pranjulgupta/assignment001)
