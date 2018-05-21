@@ -3,7 +3,7 @@
 Read the Basics of JS  -  Slides given on Youstart Labs site:
 
 * Understand Variables, Functions, Type of data structures and basic control structure like if/else,for etc.
-* Under in-built functions like Math, Random, Timers etc.
+* Understand in-built functions like Math, Random, Timers etc.
 * Practise programming in Javascript using given assignments.
 
 ## JS resources
@@ -12,6 +12,8 @@ Read the Basics of JS  -  Slides given on Youstart Labs site:
 * Mozilla Developer Documents [Tutorial](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 
 ## Assignment 3 - JS Problems
+
+### All assignment should be submitted in a single file like `index.js` with every solution as a function e.g. problem 1 can have `function solution1(){ your code }` . ** marked problem are most important.
 
 1. Write a JavaScript program to find the area of a triangle where lengths of the three of its sides are 5, 6, 7.
 
@@ -28,7 +30,7 @@ Expected Output :
 
 4. Write a JavaScript program to capitalize the first letter of each word of a given string.
 
-5. Write a JavaScript program check if a given positive number is a multiple of 3 or a multiple of 7.
+5. Write a JavaScript program to check if a given positive number is a multiple of 3 or a multiple of 7.
 
 6. ** It is found by comparing two DNA strands and counting how many of the nucleotides are different from their equivalent in the other string.Find out the difference in 2 strings. How many chars are different ?
 
@@ -56,9 +58,9 @@ The word isograms, however, is not an isogram, because the s repeats.
 
 9. Convert a long phrase to its acronym.Techies love their TLA (Three Letter Acronyms). Help generate some jargon by writing a program that converts a long name like Portable Network Graphics to its acronym (PNG).
 
-10. ** Create a JSON data object for Facebook news feed, should have data for author name, author image, post content, list of likes,comments and share etc. Now you must be able to query these  :
+10. ** Create a JSON data object for Facebook news feed, should have data for author name, author image, post content, list of likes, comments and share etc. Now you must be able to query these  :
 
-      a. Check how many posts are by a particular user in your feed ? <br>
+      a. Check how many posts are there by a particular user in your feed ? <br>
       b. How many likes on 5th post ?<br>
       c. Who are the users who liked 5th post ?<br>
       d. Who is the First user to like 5th post ?<br>
