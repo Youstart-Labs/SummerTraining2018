@@ -93,3 +93,4 @@ Checkout the screens given in `layouts` folder and try to implement them from sc
 * Harshita Gupta [Github Link](https://github.com/harshita2504/bootsrtap)
 * Sagar Goyal [Github Link](https://github.com/SagarEr/bootstrap-project)
 * Vaishali Mahour [Github Link](https://github.com/vaishali-mahour/bootstrap-assignment)
+* Mayank Tiwari [Github Link](https://github.com/HonkingWizard/Bootstrap_Template)
