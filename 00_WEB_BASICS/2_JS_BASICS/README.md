@@ -103,7 +103,7 @@ var caption  =  prompt("enter your caption");
 
 ### E-Shoppie
 
-This task will only change product list page in your project. Aim of task is to make a user interface in which you can upload more such products in your ecommerce page. We will try to make only few things dynamic `product picture`, `product name`, `brand`, `price`.
+This task will only change product list page in your project. Aim of task is to make a user interface through which you can upload more such products in your ecommerce page. We will try to make only few things dynamic `product picture`, `product name`, `brand`, `price`.
 
 #### Steps to follow :
 
@@ -125,7 +125,7 @@ var prodName  =  prompt("enter your product name");
 
 ### Bloggr
 
-This task will only change blog thumnail list page in your project. Aim of task is to make a user interface in which you can upload more such thumbnails. We will try to make only few things dynamic `blog picture`, `blog title`, `user name`, `user picture`.
+This task will only change blog thumbnail list page in your project. Aim of task is to make a user interface through which you can upload more such blog cards. We will try to make only few things dynamic `blog picture`, `blog title`, `user name`, `user picture`.
 
 #### Steps to follow :
 
@@ -147,7 +147,7 @@ var blogTitle  =  prompt("enter your blog title");
 
 ### Twtr
 
-This task will only change edit user profile and add new tweets to your page. Aim of task is to make a user interface in which you can edit user information. We will try to make only few things editable `cover picture`, `user bio`, `user name`, `user picture`.
+This task will only change edit user profile and add new tweets to your page. Aim of task is to make a user interface through which you can edit user information. We will try to make only few things editable `cover picture`, `user bio`, `user name`, `user picture`. Also we will make user tweet through given input text box.
 
 #### Steps to follow :
 
