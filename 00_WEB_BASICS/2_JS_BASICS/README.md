@@ -80,7 +80,7 @@ The word isograms, however, is not an isogram, because the s repeats.
 
 ### Photogram
 
-This task will only change gallery page in your project. Aim of task is to make a user interface in which you can upload more such card pictures in your photo gallery. We will try to make only few things dynamic `user picture`, `main picture`, `caption`, `name of author`.
+This task will only change gallery page in your project. Aim of task is to create a user interface in which you can upload a new card in your photo gallery. We will try to make only few things dynamic `user picture`, `main picture`, `caption`, `name of author`.
 
 #### Steps to follow :
 
