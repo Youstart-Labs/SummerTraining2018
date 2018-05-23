@@ -107,3 +107,8 @@ Checkout the screens given in `layouts` folder and try to implement them from sc
 * Deepakshi Kalra [Github Link](http://github.com/deepakshikalra/assignment-3)
 * Mitali Jangid [Github Link](https://github.com/mitali-jangid/login_page)
 * Ankit Goyal [Github Link](https://github.com/agl-96/assignment1)
+* Ronak Pansari [Github Link](http://github.com/ronakpansari2312/Assignment-2)
+* Pulkit Chandel [Github Link](https://github.com/pulkit22/Bootstrap-template)
+* Mukul Garg [Github Link](https://github.com/MukulGarg123/BootstrapTemplate)
+* Manav Charan [Github Link](https://github.com/spartan6895/BootstrapProject)
+* Gaurav Kabra [Github Link](https://github.com/Kabragorv/bootstrap)
