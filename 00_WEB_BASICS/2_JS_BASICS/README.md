@@ -10,7 +10,7 @@ Read the Basics of JS  -  Slides given on Youstart Labs site:
 
 * Slides on Youstart Labs course page
 * Mozilla Developer Documents [Tutorial](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
-* jQuery functions we are using : [.text()](https://www.w3schools.com/jquery/jquery_dom_set.asp), [.html()](https://www.w3schools.com/jquery/jquery_dom_set.asp),[.val()](https://www.w3schools.com/jquery/jquery_dom_set.asp) ,.attr(), [.css()](https://www.w3schools.com/jquery/jquery_css.asp), [.append()](https://www.w3schools.com/jquery/jquery_dom_add.asp)
+* jQuery functions we are using : [.text()](https://www.w3schools.com/jquery/jquery_dom_set.asp), [.html()](https://www.w3schools.com/jquery/jquery_dom_set.asp), [.val()](https://www.w3schools.com/jquery/jquery_dom_set.asp) ,.attr(), [.css()](https://www.w3schools.com/jquery/jquery_css.asp), [.append()](https://www.w3schools.com/jquery/jquery_dom_add.asp)
 
 ## Assignment 3 - JS Problems
 
