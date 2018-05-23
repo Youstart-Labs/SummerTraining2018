@@ -76,3 +76,94 @@ The word isograms, however, is not an isogram, because the s repeats.
       e. print initials of all your friends (Virat Kohli becomes VK)<br>
       f. print only friends who have same first names<br>
 
+## Assignment 4 - (Mini Project)
+
+### Photogram
+
+This task will only change gallery page in your project. Aim of task is to make a user interface in which you can upload more such card pictures in your photo gallery. We will try to make only few things dynamic `user picture`, `main picture`, `caption`, `name of author`.
+
+#### Steps to follow :
+
+* You can use `Upload Image` button to make `onclick` call to function which has your complete logic of adding card.
+* You can use JS prompts to take user input. Read more about prompt in JS [here](https://www.w3schools.com/jsref/met_win_prompt.asp).
+* For example, if you have to capture `caption` use something like
+
+```javascript
+var caption  =  prompt("enter your caption");
+```
+
+* Select the Card div using jQuery, make sure you select the right div.
+* Using jQuery you have to clone the `div`. If you don't clone the `div` same `div` will be modified everytime and a new copy will not be created. Use jQuery `.clone()` method to create a clone of selected `div`.
+* Now change `user picture`, `main picture`, `caption`, `name of author` in selected clone. To change all fields you need to have an `id` or `class` at right place.
+* For images you can use a URL from internet rather than using a local file `https://placeimg.com/500/333/nature` - use this for main picture.`https://placeimg.com/128/128/people` - use this for user image.
+* Finally, add the cloned div to your `row-cards` div (which contains all your cards). This you can do using jQuery `.append()` function.
+
+* Tada !! finally you will get a dynamic photo timeline in which you can add as many as photo cards as you wish.  Although this timeline will be temporary and will vanish if your refresh the page.
+
+### E-Shoppie
+
+This task will only change product list page in your project. Aim of task is to make a user interface in which you can upload more such products in your ecommerce page. We will try to make only few things dynamic `product picture`, `product name`, `brand`, `price`.
+
+#### Steps to follow :
+
+* You can use `Add a new Product` button to make `onclick` call to function which has your complete logic of adding products.
+* You can use JS prompts to take user input. Read more about prompt in JS [here](https://www.w3schools.com/jsref/met_win_prompt.asp).
+* For example, if you have to capture `product name` use something like
+
+```javascript
+var prodName  =  prompt("enter your product name");
+```
+
+* Select the Card div using jQuery, make sure you select the right div.
+* Using jQuery you have to clone the `div`. If you don't clone the `div` same `div` will be modified everytime and a new copy will not be created. Use jQuery `.clone()` method to create a clone of selected `div`.
+* Now change `product picture`, `product name`, `brand`, `price` in selected clone. To change all fields you need to have an `id` or `class` at right place.
+* For images you can use a URL from internet rather than using a local file `https://placeimg.com/420/350/tech` - use this for main product picture.
+* Finally, add the cloned div to your `row-cards` div (which contains all your cards). This you can do using jQuery `.append()` function.
+
+* Tada !! finally you will get a dynamic product list in which you can add as many as product as you wish.  Although this list will be temporary and will vanish if your refresh the page.
+
+### Bloggr
+
+This task will only change blog thumnail list page in your project. Aim of task is to make a user interface in which you can upload more such thumbnails. We will try to make only few things dynamic `blog picture`, `blog title`, `user name`, `user picture`.
+
+#### Steps to follow :
+
+* You can use `Add a new Blog` button to make `onclick` call to function which has your complete logic of adding blog.
+* You can use JS prompts to take user input. Read more about prompt in JS [here](https://www.w3schools.com/jsref/met_win_prompt.asp).
+* For example, if you have to capture `blog title` use something like
+
+```javascript
+var blogTitle  =  prompt("enter your blog title");
+```
+
+* Select the Card div using jQuery, make sure you select the right div.
+* Using jQuery you have to clone the `div`. If you don't clone the `div` same `div` will be modified everytime and a new copy will not be created. Use jQuery `.clone()` method to create a clone of selected `div`.
+* Now change `blog picture`, `blog title`, `user name`, `user picture` in selected clone. To change all fields you need to have an `id` or `class` at right place.
+* For images you can use a URL from internet rather than using a local file `https://placeimg.com/500/333/any` - use this for `blog picture`.`https://placeimg.com/128/128/people` - use this for `user picture`.
+* Finally, add the cloned div to your `row-cards` div (which contains all your cards). This you can do using jQuery `.append()` function.
+
+* Tada !! finally you will get a dynamic blog list in which you can add as many as blog as you wish.  Although this list will be temporary and will vanish if your refresh the page.
+
+### Twtr
+
+This task will only change edit user profile and add new tweets to your page. Aim of task is to make a user interface in which you can edit user information. We will try to make only few things editable `cover picture`, `user bio`, `user name`, `user picture`.
+
+#### Steps to follow :
+
+* You can use `Edit Profile` button to make `onclick` call to function which has your complete logic of editing profile.
+* You can use JS prompts to take user input. Read more about prompt in JS [here](https://www.w3schools.com/jsref/met_win_prompt.asp).
+* For example, if you have to capture `user name` use something like
+
+```javascript
+var username  =  prompt("enter your user name");
+```
+
+* Now change `cover picture`, `user bio`, `user name`, `user picture` in selected elements. To change all fields you need to have an `id` or `class` at right place.
+* For images you can use a URL from internet rather than using a local file `https://placeimg.com/500/333/any` - use this for `cover picture`.`https://placeimg.com/128/128/people` - use this for `user picture`.
+
+* Tada !! finally you will be able to edit user profile. Although these edits will be temporary and will vanish if your refresh the page.
+* There is one more task you can complete after this. You have to add a new tweet from given input box.
+* Select using jQuery the `<li>` item which corresponds to one tweet, make sure you select the right element.
+* Using jQuery you have to clone the `<li>`. If you don't clone the `li` same `li` will be modified everytime and a new copy will not be created. Use jQuery `.clone()` method to create a clone of selected `li`.
+* Change the main `text` of clone `li` using `.text()` function. 
+* Finally, add the cloned `li` to your `ul`  (which contains all your tweets). This you can do using jQuery `.append()` function. You can run this complete functionality of clone and addidng using `tweet` button given in front of input box. [Actual theme shows camera - change the logo if you want]
