@@ -12,6 +12,7 @@ Read the Basics of JS  -  Slides given on Youstart Labs site:
 * Mozilla Developer Documents [Tutorial](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 * jQuery functions we are using : [.text()](https://www.w3schools.com/jquery/jquery_dom_set.asp), [.html()](https://www.w3schools.com/jquery/jquery_dom_set.asp), [.val()](https://www.w3schools.com/jquery/jquery_dom_set.asp) , [.attr()](https://www.w3schools.com/jquery/html_attr.asp), [.css()](https://www.w3schools.com/jquery/jquery_css.asp), [.append()](https://www.w3schools.com/jquery/jquery_dom_add.asp), [.clone()](https://www.w3schools.com/jquery/html_clone.asp)
 
+
 ## Assignment 3 - JS Problems
 
 ### All problems should be submitted in one file like `index.js` with every solution as a function e.g. problem 1 can have `function solution1(){ your code }` . ** marked problem are most important.
@@ -168,3 +169,11 @@ var username  =  prompt("enter your user name");
 * Using jQuery you have to clone the `<li>`. If you don't clone the `li` same `li` will be modified everytime and a new copy will not be created. Use jQuery `.clone()` method to create a clone of selected `li`.
 * Change the main `text` of clone `li` using `.text()` function. 
 * Finally, add the cloned `li` to your `ul`  (which contains all your tweets). This you can do using jQuery `.append()` function. You can run this complete functionality of clone and addidng using `tweet` button given in front of input box. [Actual theme shows camera - change the logo if you want]
+
+## Optional Assignment
+
+This is only for those who have successfully completed all assignments.
+
+* Create a form using bootstrap - for all the fields you have used in prompts.
+* Remove the prompts and now use this form to submit the new Card to your project.
+* Optionally, you can hide or show this form on click of button. So, that form will only be visible when you try to add new item.
