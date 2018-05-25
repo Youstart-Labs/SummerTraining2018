@@ -1,4 +1,4 @@
-# Youstart Labs Summer Program
+# Youstart Labs Summer Program - Full Stack Development
 
 ## Updates
 
