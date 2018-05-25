@@ -11,7 +11,6 @@ Read the Basics of JS  -  Slides given on Youstart Labs site:
 * Slides on Youstart Labs course page
 * Mozilla Developer Documents [Tutorial](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 * jQuery functions we are using : [.text()](https://www.w3schools.com/jquery/jquery_dom_set.asp), [.html()](https://www.w3schools.com/jquery/jquery_dom_set.asp), [.val()](https://www.w3schools.com/jquery/jquery_dom_set.asp) , [.attr()](https://www.w3schools.com/jquery/html_attr.asp), [.css()](https://www.w3schools.com/jquery/jquery_css.asp), [.append()](https://www.w3schools.com/jquery/jquery_dom_add.asp), [.clone()](https://www.w3schools.com/jquery/html_clone.asp)
-* More pratice problems in JS [Here](https://www.freecodecamp.org/map#nested-collapseBasicJavaScript)
 
 ## Assignment 3 - JS Problems
 
@@ -177,3 +176,8 @@ This is only for those who have successfully completed all assignments.
 * Create a form using bootstrap - for all the fields you have used in prompts.
 * Remove the prompts and now use this form to submit the new Card to your project.
 * Optionally, you can hide or show this form on click of button. So, that form will only be visible when you try to add new item.
+
+## For practice 
+
+* More pratice problems in basic JS [Here](https://www.freecodecamp.org/map#nested-collapseBasicJavaScript)
+* More practice probles in object and arrays in JS [Here](https://www.freecodecamp.org/challenges/declare-javascript-objects-as-variables)
