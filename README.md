@@ -9,3 +9,12 @@
 * Assignment 4 - You can submit the github link of completed assignment. If you want to publish your project LIVE on internet - make few changes before submitting. (1) Remove all unnecessary files from folder. (2) Make your main file name as `index.html`. Main file is the file which is having prompts.
 * More JS practice problems added in `JS_Basics` page.
 
+## How to host your project
+
+* Create a Repository with name `<yourusername>.github.io` where `<yourusername>` is your github username.
+* Go to your project which you want to host. Make main file as `index.html` this file will open first on your hosted site.
+* Use standard git commands - to add, commit, push all file to this remote repository.
+* Finally you can open a URL like `<yourusername>.github.io` and you will see your project 'LIVE' !!
+* Watch this video to check all steps [Youtube Link](https://youtu.be/pRdELKJK1pw)
+
+
