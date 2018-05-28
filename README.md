@@ -23,3 +23,5 @@
 
 * Nitisha Jain [Github Link](https://nitisha-jain.github.io/Photo_gram1.github.io)
 * Pulkit Chandel [Github Link](https://pulkit22.github.io/)
+* Pramod Kumar [Github Link](https://pramod-knight.github.io)
+* Piyush Jain [Github Link](https://piyushjain78.github.io/dist/gallery.html)
