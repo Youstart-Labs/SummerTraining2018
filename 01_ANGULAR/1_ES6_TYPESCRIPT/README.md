@@ -115,3 +115,21 @@ You can export and import varibales from one javascript file to other.
 ## Interfaces
 
 Use interfaces to fix some properties of a data type which are compulsory i.e. Peope - firstName, lastName
+
+## Inheritence
+
+In TypeScript, we can use common object-oriented patterns. One of the most fundamental patterns in class-based programming is being able to extend existing classes to create new ones using inheritance
+
+```javascript
+class Animal {
+    move(distanceInMeters: number = 0) {
+        console.log(`Animal moved ${distanceInMeters}m.`);
+    }
+}
+
+class Dog extends Animal {
+    bark() {
+        console.log('Woof! Woof!');
+    }
+}
+```
