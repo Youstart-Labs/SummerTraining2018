@@ -112,3 +112,6 @@ Checkout the screens given in `layouts` folder and try to implement them from sc
 * Mukul Garg [Github Link](https://github.com/MukulGarg123/BootstrapTemplate)
 * Manav Charan [Github Link](https://github.com/spartan6895/BootstrapProject)
 * Gaurav Kabra [Github Link](https://github.com/Kabragorv/bootstrap)
+* Shryansh Khandelwal [Github Link](https://github.com/shray1197/project1)
+* Harshita Gulwani [GitHub Link](https://github.com/HarshitaGulwani/Assignment2)
+* Vaishali Jain [Github Link](https://github.com/vaishalijn/bp)
