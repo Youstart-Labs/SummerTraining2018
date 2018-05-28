@@ -110,11 +110,22 @@ You can export and import varibales from one javascript file to other.
 6. Enum
 7. Any
 
-[Read these in details here](https://www.typescriptlang.org/docs/handbook/basic-types.html)
+[Read this in details here](https://www.typescriptlang.org/docs/handbook/basic-types.html)
 
 ## Interfaces
 
 Use interfaces to fix some properties of a data type which are compulsory i.e. Peope - firstName, lastName
+
+```javascript
+function printLabel(labelledObj: { label: string }) {
+    console.log(labelledObj.label);
+}
+
+let myObj = {size: 10, label: "Size 10 Object"};
+printLabel(myObj);
+```
+
+[Read this in details here](https://www.typescriptlang.org/docs/handbook/interfaces.html)
 
 ## Inheritence
 
@@ -133,3 +144,5 @@ class Dog extends Animal {
     }
 }
 ```
+
+[Read this in details here](https://www.typescriptlang.org/docs/handbook/classes.html)
