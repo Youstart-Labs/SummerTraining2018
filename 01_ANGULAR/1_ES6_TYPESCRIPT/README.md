@@ -110,7 +110,7 @@ You can export and import varibales from one javascript file to other.
 6. Enum
 7. Any
 
-[Read details Here](https://www.typescriptlang.org/docs/handbook/basic-types.html)
+[Read these in details here](https://www.typescriptlang.org/docs/handbook/basic-types.html)
 
 ## Interfaces
 
