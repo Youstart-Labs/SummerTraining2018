@@ -95,7 +95,7 @@ You can export and import varibales from one javascript file to other.
 
 `export { myFunction };`
 
-`import {myFunction} from .\test`
+`import {myFunction} from ".\test"`
 
 
 # TypeScript
