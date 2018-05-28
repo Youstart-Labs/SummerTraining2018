@@ -18,3 +18,8 @@
 * Watch this video to check all steps [Youtube Link](https://youtu.be/pRdELKJK1pw)
 
 
+
+## Mini Project - 1  (LIVE)
+
+* Nitisha Jain [Github Link](https://nitisha-jain.github.io/Photo_gram1.github.io)
+* Pulkit Chandel [Github Link](https://pulkit22.github.io/)
