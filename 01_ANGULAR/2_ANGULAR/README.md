@@ -20,3 +20,18 @@
 * Interpolation / Data Binding
 * Event Binding
 * Directives - ngModel, ngFor, ngIf, ngClass, ngStyle
+
+## Assignment 5
+
+Create a complete Todo List web application which can manage your daily tasks. These are the feature required in list.
+
+* You can add new tasks to list.
+* You can remove a task from the list by delete button.
+* You can edit a task from your list and change its "text".
+* You can change status of task to `done` or `pending`. This can be done using list item colors. You can click on a task to change its status.
+* You should show at top of list : Number of total task in List and Number of Pending Tasks i.e. Tasks - (3/10). Which means 3 tasks are pending out of total 10 tasks.
+* You can give an entry and exit animation to each list item using `animate.css`.
+* You can optional use bootstrap classes for improving the overall UI/UX
+
+
+
