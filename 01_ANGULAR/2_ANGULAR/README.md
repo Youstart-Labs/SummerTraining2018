@@ -16,12 +16,53 @@
 ## Angular Concepts
 
 * File Structure of Module and Components.
-* Component Decorators
-* Interpolation / Data Binding
-* Event Binding
-* Directives - ngModel, ngFor, ngIf, ngClass, ngStyle
 
-### Syntax and Usage
+`Module` - this is the top level structure in which you import other modules. Generally you can find a file called `app.module.ts` which will contain the module. This contains `root` component and other normal component `declarations`.
+
+* Component Decorators
+
+`Component` - this is basic buidling block of an application.
+
+Components can be generated via generate command :
+
+```javascript
+  ng generate component list
+```
+
+This above command will generate the list component.
+A component is represented by `@Component` decorator which will be inside `.ts` file of a component generated. This will look like:
+
+```javascript
+@Component({
+  selector: 'list',
+  templateUrl: './list.component.html',
+  styleUrls: ['./list.component.css']
+})
+```
+
+`selector` - this is the way component will be called in HTML files. e.g. `<list></list>`
+`templateUrl` - location of HTML of this component
+`styleUrls` - location of CSS files which are applied on this component. You can apply multiple CSS files.
+
+* Interpolation / Data Binding
+
+`{{name}}` - Interpolation brackets are used to denote that name is a variable in Angular Class and is not be used as HTML string.
+
+`[ngClass]="className"` - Single way data-binding.It means `className` is a variable not a string.
+
+`[(ngModel)]="text"` - Two way data-binding.It means `className` is a variable not a string and ngModel will change `text` value on each event of Change in Input.
+
+* Event Binding
+
+ `click` - This is one of event which can be used in Angular. Any event can be put on any element of html.
+
+ ```javascript
+ <button (click)="add()">Add Item</button>
+ ```
+
+ In above example, button has an `click` event and it will call a `add` function on click.
+
+### Syntax and Usage of Directives
 
 #### ngModel
 

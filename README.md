@@ -34,3 +34,4 @@
 * Gaurav Aggarwal [E-shoppie] [Github Link](https://agarwalgaurav1604.github.io/)
 * Rohit Soni [Bloggr] [Github Link](https://Ronny7.github.io)
 * Vinay Pancholi [Photogram] [Github Link](https://vinsp18.github.io/)
+* Charu Verma [Photogram] [Github Link](https://charu768.github.io)
