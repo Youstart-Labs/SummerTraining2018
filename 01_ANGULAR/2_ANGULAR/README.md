@@ -63,7 +63,7 @@ This will create multiple elements of type `li` or any tag which has ngFor.
 
 #### ngIf
 
- `ngIf` - this a conditional operator which lets you control when a element is created or not
+ `ngIf` - This is a conditional operator which lets you control when a element is created or not
 
  ```javascript
  <li *ngIf ="name =='sachin'"></li>
