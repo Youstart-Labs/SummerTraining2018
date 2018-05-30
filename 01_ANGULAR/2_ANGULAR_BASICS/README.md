@@ -1,4 +1,4 @@
-# ANGULAR - First Application
+# ANGULAR BASICS - First Application (TODO List)
 
 ## Setup Requirements
 
