@@ -30,7 +30,7 @@
 * Prashita Jain [Twtr] [Github Link](https://Prashita12.github.io)
 * Deepak Kumar [Photogram] [Github Link](https://deepak-kumar31.github.io/gallery.html)
 * Vaishali Mahour [Bloggr] [Github Link](https://vaishali-mahour.github.io/)
-* Piyush Yadav [Github Link](https://piyushyadav.github.io/)
+* Piyush Yadav [Photogram] [Github Link](https://piyushyadav.github.io/)
 * Gaurav Aggarwal [E-shoppie] [Github Link](https://agarwalgaurav1604.github.io/)
 * Rohit Soni [Bloggr] [Github Link](https://Ronny7.github.io)
 * Vinay Pancholi [Photogram] [Github Link](https://vinsp18.github.io/)
