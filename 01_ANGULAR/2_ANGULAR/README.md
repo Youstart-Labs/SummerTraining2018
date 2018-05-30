@@ -41,7 +41,7 @@ This will 2-way bind input box to a variable `newTask`.
 <li *ngFor="let task of tasks">
 ```
 
-This will create multiple elements of type `li` or any tag which has ngFor.
+This will create multiple elements of type `li` or any tag which has `ngFor`.
 
 #### ngClass
 
