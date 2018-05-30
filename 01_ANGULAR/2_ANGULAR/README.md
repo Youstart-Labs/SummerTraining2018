@@ -32,6 +32,11 @@ Create a complete Todo List web application which can manage your daily tasks. T
 * You should show at top of list : Number of total task in List and Number of Pending Tasks i.e. Tasks - (3/10). Which means 3 tasks are pending out of total 10 tasks.
 * You can give an entry and exit animation to each list item using `animate.css`.
 * You can optional use bootstrap classes for improving the overall UI/UX
+* Add a `createdAt` time to each list item object - and list should show the date a item was created at.
+* Add a priority to be added to each item like - High, Medium, Low - You can show priority by background colors - Dark green : High priority, Normal green : Medium Priority, Light green - Low priority. You can use a dropdown to assign priorty while adding a new task.
+
+
+
 
 
 
