@@ -66,7 +66,13 @@ A component is represented by `@Component` decorator which will be inside `.ts` 
 
 #### ngModel
 
-`ngModel` - To use this you have to import `FormsModule` to `app.module.ts`.
+`ngModel` - To use this you have to import `FormsModule` to `app.module.ts`. you will have to use `import` in module file.
+
+
+```javascript
+ import { FormsModule } from '@angular/forms';
+```
+
 
 ```javascript
   <input type="text" [(ngModel)]="newTask">
