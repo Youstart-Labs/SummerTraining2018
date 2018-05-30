@@ -21,6 +21,49 @@
 * Event Binding
 * Directives - ngModel, ngFor, ngIf, ngClass, ngStyle
 
+### Syntax and Usage
+
+`ngModel` - To use this you have to import `FormsModule` to `app.module.ts`.
+
+```javascript
+  <input type="text" [(ngModel)]="newTask">
+```
+
+This will 2-way bind input box to a variable `newTask`.
+
+`ngFor` - To use this you will need an array or collection on which you can iterate.
+
+```javascript
+<li *ngFor="let task of tasks">
+```
+
+This will create multiple elements of type `li` or any tag which has ngFor.
+
+`ngClass` - This will help you in applying a `class` attribute on any html tag - based on a condition.
+
+```javascript
+ <li [ngClass]="{'green':name =='sachin'}"></li>
+ ```
+
+ The above example shows that list item will have `green` class applied - only if `name` variable has value `"sachin"`
+
+ You can also apply multiple class condition at once.
+
+```javascript
+ <li [ngClass]="{'green':name =='sachin'; 'red':name== 'virat'"></li>
+ ```
+
+ The above example shows that list item will have `green` class applied - only if `name` variable has value `"sachin"` and will have `red` class applied - only if `name` variable has value `"virat"`
+
+ `ngIf` - this a conditional operator which lets you control when a element is created or not
+
+ ```javascript
+ <li *ngIf ="name =='sachin'"></li>
+ ```
+
+ In above example list item will only be created when `name` has value `sachin`
+
+
 ## Assignment 5
 
 Create a complete Todo List web application which can manage your daily tasks. These are the feature required in list.
