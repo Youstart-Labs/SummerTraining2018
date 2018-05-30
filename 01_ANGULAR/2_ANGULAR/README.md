@@ -69,7 +69,7 @@ This will create multiple elements of type `li` or any tag which has ngFor.
  <li *ngIf ="name =='sachin'"></li>
  ```
 
-#### ngClick
+#### click
 
  `click` - This is one of event which can be used in Angular. Any event can be put on any element of html.
 
