@@ -61,8 +61,13 @@ This will create multiple elements of type `li` or any tag which has ngFor.
  <li *ngIf ="name =='sachin'"></li>
  ```
 
- In above example list item will only be created when `name` has value `sachin`
+ `click` - This is one of event which can be used in Angular. Any event can be put on any element of html.
 
+ ```javascript
+ <button (click)="add()">Add Item</button>
+ ```
+
+ In above example, button has an `click` event and it will call a `add` function on click.
 
 ## Assignment 5
 
