@@ -110,15 +110,17 @@ This will create multiple elements of type `li` or any tag which has `ngFor`.
  <li *ngIf ="name =='sachin'"></li>
  ```
 
-#### click
+#### ngStyle
 
- `click` - This is one of event which can be used in Angular. Any event can be put on any element of html.
+`ngStyle` - This will help you in applying a inline-css style via `style` attribute on any html tag - based on a condition.
 
- ```javascript
- <button (click)="add()">Add Item</button>
+You can also apply multiple class condition at once.
+
+```javascript
+ <li [ngStyle]="{'background-color':color;}></li>
  ```
 
- In above example, button has an `click` event and it will call a `add` function on click.
+ The above example shows that list item will have background color which is defined in `color` variable. Please take care that `color` is a variable here and not a `string`. So if `color` has value `"blue"` - background becomes blue.
 
 ## Assignment 5
 
