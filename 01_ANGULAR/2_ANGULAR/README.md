@@ -23,6 +23,8 @@
 
 ### Syntax and Usage
 
+#### ngModel
+
 `ngModel` - To use this you have to import `FormsModule` to `app.module.ts`.
 
 ```javascript
@@ -31,6 +33,8 @@
 
 This will 2-way bind input box to a variable `newTask`.
 
+#### ngFor
+
 `ngFor` - To use this you will need an array or collection on which you can iterate.
 
 ```javascript
@@ -38,6 +42,8 @@ This will 2-way bind input box to a variable `newTask`.
 ```
 
 This will create multiple elements of type `li` or any tag which has ngFor.
+
+#### ngClass
 
 `ngClass` - This will help you in applying a `class` attribute on any html tag - based on a condition.
 
@@ -55,11 +61,15 @@ This will create multiple elements of type `li` or any tag which has ngFor.
 
  The above example shows that list item will have `green` class applied - only if `name` variable has value `"sachin"` and will have `red` class applied - only if `name` variable has value `"virat"`
 
+#### ngIf
+
  `ngIf` - this a conditional operator which lets you control when a element is created or not
 
  ```javascript
  <li *ngIf ="name =='sachin'"></li>
  ```
+
+#### ngClick
 
  `click` - This is one of event which can be used in Angular. Any event can be put on any element of html.
 
