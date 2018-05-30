@@ -117,7 +117,7 @@ This will create multiple elements of type `li` or any tag which has `ngFor`.
 You can also apply multiple class condition at once.
 
 ```javascript
- <li [ngStyle]="{'background-color':color;}></li>
+ <li [ngStyle]="{'background-color':color;}"></li>
  ```
 
  The above example shows that list item will have background color which is defined in `color` variable. Please take care that `color` is a variable here and not a `string`. So if `color` has value `"blue"` - background becomes blue.
