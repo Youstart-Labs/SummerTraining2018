@@ -101,7 +101,7 @@ This will create multiple elements of type `li` or any tag which has `ngFor`.
  You can also apply multiple class condition at once.
 
 ```javascript
- <li [ngClass]="{'green':name =='sachin'; 'red':name== 'virat'"></li>
+ <li [ngClass]="{'green':name =='sachin', 'red':name== 'virat'"></li>
  ```
 
  The above example shows that list item will have `green` class applied - only if `name` variable has value `"sachin"` and will have `red` class applied - only if `name` variable has value `"virat"`
