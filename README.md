@@ -34,3 +34,4 @@
 * Piyush Yadav [Github Link](https://piyushyadav.github.io/)
 * Gaurav Aggarwal [Github Link](https://agarwalgaurav1604.github.io/)
 * Rohit Soni [Github Link](http://Ronny7.github.io)
+* Vinay Pancholi [Github Link](https://vinsp18.github.io/)
