@@ -115,4 +115,4 @@ Checkout the screens given in `layouts` folder and try to implement them from sc
 * Shryansh Khandelwal [Github Link](https://github.com/shray1197/project1)
 * Harshita Gulwani [GitHub Link](https://github.com/HarshitaGulwani/Assignment2)
 * Vaishali Jain [Github Link](https://github.com/vaishalijn/bp)
-* Diksha [Github Link](https://diksha96.github.io)
+
