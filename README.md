@@ -41,3 +41,5 @@
 * Rishi Garg [Photogram] [Github Link](https://rishi1107.github.io/)
 * Sejal [Photogram] [Github Link](https://sejalgupta12.github.io/)
 * Deepakshi Kalra [E-shoppie] [Github Link](https://Deepakshikalra.github.io)
+* Divyansh Soni [Photogram] [Github Link](https://divyanshsoni.github.io/)
+* Ronak Pansari [Photogram] [Github Link](ronakpansari2312.github.io)
