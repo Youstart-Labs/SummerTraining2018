@@ -39,3 +39,5 @@
 * Sagar Goyal [Bloggr] [Github Link](http://SagarEr.github.io)
 * Diksha [Twtr] [Github Link](https://diksha96.github.io)
 * Rishi Garg [Photogram] [Github Link](https://rishi1107.github.io/)
+* Sejal [Photogram] [Github Link](https://sejalgupta12.github.io/)
+* Deepakshi Kalra [E-shoppie] [Github Link](https://Deepakshikalra.github.io)
