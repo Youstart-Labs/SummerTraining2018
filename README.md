@@ -36,7 +36,7 @@
 
 Note : Other studens can check their marks individually from mentors. Overall results show that lack of practise is visible and few of you have to spend more time in labs and extra classes. Mentors are available full day on `Mon-Fri` and Partially on `Saturday/Sunday`.
 
-Batch 1 has slighlty better performance than Batch 2 overall (Given that coding round of Batch 2 was easier that Batch1)
+Batch 1 has slighlty better performance than Batch 2 overall (Given that coding round of Batch 2 was easier than that of Batch 1)
 
 ## Mini Project - 1  (LIVE)
 
