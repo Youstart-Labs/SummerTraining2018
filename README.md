@@ -20,9 +20,9 @@
 * Finally you can open a URL like `<yourusername>.github.io` and you will see your project 'LIVE' !!
 * Watch this video to check all steps [Youtube Link](https://youtu.be/pRdELKJK1pw)
 
-
 ## Result of Assesment 1
 
+### Top Students Batch-wise
 
 | Batch 1       	|         	|        	| Batch 2             	|         	|        	|
 |---------------	|---------	|--------	|---------------------	|---------	|--------	|
@@ -33,6 +33,10 @@
 | Piyush yadav  	| 12      	| 4      	| Rishi Garg          	| 5       	| 11     	|
 |               	|         	|        	| Harshita Gulwani    	| 5       	| 11     	|
 | Class Average 	| 5.86    	| 5.17   	|                     	| 4.2     	| 6.05   	|
+
+Note : Other studens can check their marks individually from mentors. Overall results show that lack of practise is visible and few of you have to spend more time in labs and extra classes. Mentors are available full day on `Mon-Fri` and Partially on `Saturday/Sunday`.
+
+Batch 1 has slighlty better performance than Batch 2 overall (Given that coding round of Batch 2 was easier that Batch1)
 
 ## Mini Project - 1  (LIVE)
 
