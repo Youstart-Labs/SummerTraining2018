@@ -21,6 +21,19 @@
 * Watch this video to check all steps [Youtube Link](https://youtu.be/pRdELKJK1pw)
 
 
+## Result of Assesment 1
+
+
+| Batch 1       	|         	|        	| Batch 2             	|         	|        	|
+|---------------	|---------	|--------	|---------------------	|---------	|--------	|
+|               	| Written 	| Coding 	|                     	| Written 	| Coding 	|
+| Mohit Sharma  	| 12      	| 11     	| Sagar Goyal         	| 12      	| 11     	|
+| Ayushi Jain   	| 11      	| 11     	| Riitwick Krishnatri 	| 7       	| 11     	|
+| Shikhar       	| 6       	| 11     	| Divyansh Soni       	| 6       	| 11     	|
+| Piyush yadav  	| 12      	| 4      	| Rishi Garg          	| 5       	| 11     	|
+|               	|         	|        	| Harshita Gulwani    	| 5       	| 11     	|
+| Class Average 	| 5.86    	| 5.17   	|                     	| 4.2     	| 6.05   	|
+
 ## Mini Project - 1  (LIVE)
 
 * Nitisha Jain [Photogram] [Github Link](https://nitisha-jain.github.io/Photo_gram1.github.io)
