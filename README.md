@@ -2,6 +2,7 @@
 
 ## Updates
 
+* Todo List App code : [here](./01_ANGULAR/2_ANGULAR_BASICS/todoapp/)
 * Mini Project 2 - [here](./01_ANGULAR/2_ANGULAR_BASICS/README.md#mini-project-2)
 * Please read the Angular concepts [here](./01_ANGULAR/2_ANGULAR_BASICS/README.md) to start Assignment 5.
 * Assignment 5 is updated. Check out !!.
