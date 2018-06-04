@@ -5,13 +5,7 @@
 * Game of Flags - Article [Here](https://medium.com/youstart-labs/intro-to-angular-6-using-game-of-flags-8f83cba1be08) Video [Here](https://youtu.be/zCrRtjX8UQE) Code [Here](https://github.com/Youstart-Labs/GameOfFlags)
 * Todo List App code : [here](./01_ANGULAR/2_ANGULAR_BASICS/todoapp/)
 * Mini Project 2 - [here](./01_ANGULAR/2_ANGULAR_BASICS/README.md#mini-project-2)
-* Please read the Angular concepts [here](./01_ANGULAR/2_ANGULAR_BASICS/README.md) to start Assignment 5.
-* Assignment 5 is updated. Check out !!.
 * `FREE CODE CAMP certificate` for frontend development can be earned by any student and we will help you in cracking it. `FREE CODE CAMP certificate` is world's most popular certificate in web development and recognized world wide. [Check Out](https://www.freecodecamp.org/map#Basic-Algorithm-Scripting). You will need to complete some assignment but its worth the effort.
-
-* Assignment 2 - credits updated for all students those who are missing can ping on whatsapp or email.
-* Assignment 3 - some of solutions are uploaded in solution directory in `JS_BASICS`
-* Assignment 4 - You can submit the github link of completed assignment. If you want to publish your project LIVE on internet - make few changes before submitting. (1) Remove all unnecessary files from folder. (2) Make your main file name as `index.html`. Main file is the file which is having prompts.
 * More JS practice problems added in `JS_Basics` page.
 
 ## How to host your project
