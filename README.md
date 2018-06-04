@@ -2,6 +2,7 @@
 
 ## Updates
 
+* Game of Flags - Article[Here](https://medium.com/youstart-labs/intro-to-angular-6-using-game-of-flags-8f83cba1be08) Video[Here](https://youtu.be/zCrRtjX8UQE)
 * Todo List App code : [here](./01_ANGULAR/2_ANGULAR_BASICS/todoapp/)
 * Mini Project 2 - [here](./01_ANGULAR/2_ANGULAR_BASICS/README.md#mini-project-2)
 * Please read the Angular concepts [here](./01_ANGULAR/2_ANGULAR_BASICS/README.md) to start Assignment 5.
