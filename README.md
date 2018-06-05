@@ -2,8 +2,7 @@
 
 ## Updates
 
-*Assignment 6 is [Here](./01_ANGULAR/2_ANGULAR_BASICS#assignment-6)
-
+* Assignment 6 is [Here](./01_ANGULAR/2_ANGULAR_BASICS#assignment-6)
 * Game of Flags - Article [Here](https://medium.com/youstart-labs/intro-to-angular-6-using-game-of-flags-8f83cba1be08) Video [Here](https://youtu.be/zCrRtjX8UQE) Code [Here](https://github.com/Youstart-Labs/GameOfFlags)
 * Todo List App code : [here](./01_ANGULAR/2_ANGULAR_BASICS/todoapp/)
 * Mini Project 2 - [here](./01_ANGULAR/2_ANGULAR_BASICS/README.md#mini-project-2)
