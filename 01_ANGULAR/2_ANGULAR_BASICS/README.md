@@ -167,9 +167,3 @@ Take Game of flags code and improve functionalities of game with :
 7. All pages will be linked via `Routing`.
 8. Data of JSON format will be stored under `Services` which can share data between components.
 
-
-
-
-
-
-
