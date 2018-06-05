@@ -140,6 +140,17 @@ Create a complete Todo List web application which can manage your daily tasks. T
 * Add a `createdAt` time to each list item object - and list should show the date a item was created at.
 * Add a priority to be added to each item like - High, Medium, Low - You can show priority by background colors - Dark green : High priority, Normal green : Medium Priority, Light green - Low priority. You can use a dropdown to assign priorty while adding a new task.
 
+## Assignment 6
+
+Take Game of flags code and improve functionalities of game with :
+
+* Add multiple choice buttons instead of input text.
+* Improve UI using bootstrap
+* Create a scoring mechansim for 'right' answers. Scoring should also reward continuous correct answers.
+* Improve application by adding common features like - auto start, reset button etc.
+* You can also add sound/gifs on correct and wrong.
+
+
 ## Mini Project 2
 
 ### Converting Photogram,Bloggr,Twtr,EShoppie to Angular Project
