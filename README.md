@@ -59,4 +59,4 @@ Batch 1 has slighlty better performance than Batch 2 overall (Given that coding 
 * Deepakshi Kalra [E-shoppie] [Github Link](https://Deepakshikalra.github.io)
 * Divyansh Soni [Photogram] [Github Link](https://divyanshsoni.github.io/)
 * Ronak Pansari [Photogram] [Github Link](https://ronakpansari2312.github.io)
-* Harshita Gulwani [Photogram] [Github Link](https://Harshitagulwani.github.io)
+* Harshita Gulwani [Twtr] [Github Link](https://Harshitagulwani.github.io)
