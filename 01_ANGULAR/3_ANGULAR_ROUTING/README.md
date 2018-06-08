@@ -57,5 +57,17 @@ I am adding links in root component itself
 
 Check now you can now switch between the two components. Links will be always visible as they are outside the router outlet.
 
+## Mini Project 2
 
+### Converting Photogram,Bloggr,Twtr,EShoppie to Angular Project
 
+1. Pick your `tabler-dev` theme. Don't use the `jQuery` version of assignment. Use the fresh theme package zip.
+2. You have to create the same kind of application as in Assignment 4. Only difference being code should be done in Angular 6. You will have to divide the theme in components like "header", "footer", "content", "cards" etc.
+3. Use a JSON array to represent all your cards in your project. A `*ngFor` will create cards according to data. No static card will be there if your array is empty.
+4. You will have to create a form to enter all info of a new card. Don't use `prompt` now.
+5. All CSS files can be used in global `index.html` or `angular.json` file to have proper linking. Also you can use `assets` folder to host all files - you might have to change paths.
+6. All pages `login`, `signup`, `form` will be separate components. Main page such as `gallery` page can be a component containing multiple components - `header`, `footer` and `card` components
+7. All pages will be linked via `Routing`.
+8. Data of JSON format will be stored under `Services` which can share data between components.That means all your cards must be generated via some data in `Service` and not directly written in HTML.
+9. From login page you must be able to pass data of username to top of header component in next page.
+10. Form data should create in new cards in your respective project. That data will be shared via services.

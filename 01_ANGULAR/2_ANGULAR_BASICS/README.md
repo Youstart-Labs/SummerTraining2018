@@ -151,19 +151,4 @@ Take Game of flags code and improve functionalities of game with :
 * You can also add sound/gifs on correct and wrong.
 
 
-## Mini Project 2
-
-### Converting Photogram,Bloggr,Twtr,EShoppie to Angular Project
-
-1. Pick your `tabler-dev` theme. Don't use the `jQuery` version of assignment. Use the fresh theme package zip.
-2. You have to create the same kind of application as in Assignment 4. Only difference being code should be done in Angular 6. You will have to divide the theme in components like "header", "footer", "content", "cards" etc.
-3. Use a JSON array to represent all your cards in your project. A `*ngFor` will create cards according to data. No static card will be there if your array is empty.
-4. You will have to create a form to enter all info of a new card. Don't use `prompt` now.
-5. All CSS files can be used in global `index.html` or `angular.json` file to have proper linking.
-
-** 6,7,8 points will be discussed in Monday class you can work on other points for now.
-
-6. All pages `login`, `signup`, `form` will be separate components.
-7. All pages will be linked via `Routing`.
-8. Data of JSON format will be stored under `Services` which can share data between components.
 
