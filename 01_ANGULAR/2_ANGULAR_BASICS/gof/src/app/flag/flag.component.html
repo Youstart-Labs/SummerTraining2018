@@ -1,0 +1,10 @@
+<div>
+<div>
+    <!-- <h1>{{randomNationName}}</h1> -->
+    <span style="width:10em;line-height: 10em" class="flag-icon flag-icon-{{randomNationISOCode | lowercase}}"></span>
+</div>
+<input type="text" [(ngModel)]="myGuess" placeholder="enter name of nation">
+<button (click)="next()">Fire</button>
+<h1 *ngIf="myGuess && myGuess==randomNationName">Correct Guess !!!</h1>
+
+</div>

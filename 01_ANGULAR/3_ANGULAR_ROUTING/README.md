@@ -69,5 +69,5 @@ Check now you can now switch between the two components. Links will be always vi
 6. All pages `login`, `signup`, `form` will be separate components. Main page such as `gallery` page can be a component containing multiple components - `header`, `footer` and `card` components
 7. All pages will be linked via `Routing`.
 8. Data of JSON format will be stored under `Services` which can share data between components.That means all your cards must be generated via some data in `Service` and not directly written in HTML.
-9. From login page you must be able to pass data of username to top of header component in next page.
-10. Form data should create in new cards in your respective project. That data will be shared via services.
+9. Using login page you must be able to pass data of username to top of header component in next page.
+10. `Form` data should create new cards in your respective projects. That data will be shared via `Service`.
