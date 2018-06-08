@@ -4,7 +4,7 @@
 
 * Assesment Test 2 - Wednesday (13 June); Topics - Angular CLI, Angular Basics of Binding, Angular Components, templates, Services, Routing, Pipes, JSON basics. Weightage : 50 Marks ( Double of Assesment 1)
 
-![Assesment Test]](https://media.giphy.com/media/yFHkrrbfITemc/giphy.gif)
+![Assesment Test](https://media.giphy.com/media/yFHkrrbfITemc/giphy.gif)
 
 * Mini Project 2 - [here](./01_ANGULAR/3_ANGULAR_ROUTING/README.md#mini-project-2)
 * Angular Routing [Read Here](./01_ANGULAR/3_ANGULAR_ROUTING)
