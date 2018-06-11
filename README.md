@@ -2,7 +2,7 @@
 
 ## Updates
 
-* Assesment Test discussion and all your question at one place on this [Youstart FB group](https://www.facebook.com/groups/Pushstarter/)
+* Assesment Test discussion and all your question at one place on this >>> [Youstart FB group](https://www.facebook.com/groups/Pushstarter/)
 
 * Assesment Test 2 - Wednesday (13 June); Topics - Angular CLI, Angular Basics of Binding, Angular Components, templates, Services, Routing, Pipes, JSON basics. Weightage : 50 Marks ( Double of Assesment 1)
 
