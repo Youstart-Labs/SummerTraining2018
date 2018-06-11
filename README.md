@@ -2,15 +2,11 @@
 
 ## Updates
 
+* Assesment Test discussion and all your question at one place on this [Youstart FB group](https://www.facebook.com/groups/Pushstarter/)
+
 * Assesment Test 2 - Wednesday (13 June); Topics - Angular CLI, Angular Basics of Binding, Angular Components, templates, Services, Routing, Pipes, JSON basics. Weightage : 50 Marks ( Double of Assesment 1)
 
-![Assesment Test](https://media.giphy.com/media/yFHkrrbfITemc/giphy.gif)
-
-* Mini Project 2 - [here](./01_ANGULAR/3_ANGULAR_ROUTING/README.md#mini-project-2)
-* Angular Routing [Read Here](./01_ANGULAR/3_ANGULAR_ROUTING)
-* Assignment 6 is [Here](./01_ANGULAR/2_ANGULAR_BASICS#assignment-6)
-* Game of Flags - Article [Here](https://medium.com/youstart-labs/intro-to-angular-6-using-game-of-flags-8f83cba1be08) Video [Here](https://youtu.be/zCrRtjX8UQE) Code [Here](https://github.com/Youstart-Labs/GameOfFlags)
-* Todo List App code : [here](./01_ANGULAR/2_ANGULAR_BASICS/todoapp/)
+* Game of Flags - Article [Here](https://medium.com/youstart-labs/intro-to-angular-6-using-game-of-flags-8f83cba1be08) Video [Here](https://youtu.be/zCrRtjX8UQE) Code [Here]
 
 * `FREE CODE CAMP certificate` for frontend development can be earned by any student and we will help you in cracking it. `FREE CODE CAMP certificate` is world's most popular certificate in web development and recognized world wide. [Check Out](https://www.freecodecamp.org/map#Basic-Algorithm-Scripting). You will need to complete some assignment but its worth the effort.
 * More JS practice problems added in `JS_Basics` page.
@@ -23,23 +19,6 @@
 * Finally you can open a URL like `<yourusername>.github.io` and you will see your project 'LIVE' !!
 * Watch this video to check all steps [Youtube Link](https://youtu.be/pRdELKJK1pw)
 
-## Result of Assesment 1
-
-### Top Students Batch-wise
-
-| Batch 1       	|         	|        	| Batch 2             	|         	|        	|
-|---------------	|---------	|--------	|---------------------	|---------	|--------	|
-|               	| Written 	| Coding 	|                     	| Written 	| Coding 	|
-| Mohit Sharma  	| 12      	| 11     	| Sagar Goyal         	| 12      	| 11     	|
-| Ayushi Jain   	| 11      	| 11     	| Riitwick Krishnatri 	| 7       	| 11     	|
-| Shikhar       	| 6       	| 11     	| Divyansh Soni       	| 6       	| 11     	|
-| Piyush yadav  	| 12      	| 4      	| Rishi Garg          	| 5       	| 11     	|
-|               	|         	|        	| Harshita Gulwani    	| 5       	| 11     	|
-| Class Average 	| 5.86    	| 5.17   	|                     	| 4.2     	| 6.05   	|
-
-Note : Other studens can check their marks individually from mentors. Overall results show that lack of practise is visible and few of you have to spend more time in labs and extra classes. Mentors are available full day on `Mon-Fri` and Partially on `Saturday/Sunday`.
-
-Batch 1 has slighlty better performance than Batch 2 overall (Given that coding round of Batch 2 was easier than that of Batch 1)
 
 ## Mini Project - 1  (LIVE)
 
