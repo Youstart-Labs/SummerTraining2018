@@ -2,7 +2,7 @@
 
 ## Updates
 
-* Assignment 7 [Here](../01_ANGULAR/4_ANGULAR_HTTP#assignment-7)
+* Assignment 7 [Here](./01_ANGULAR/4_ANGULAR_HTTP#assignment-7)
 
 * Assesment Test discussion and all your question at one place on this >>> [Youstart FB group](https://www.facebook.com/groups/Pushstarter/)
 
