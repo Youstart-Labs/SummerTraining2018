@@ -2,7 +2,7 @@
 
 ## Updates
 
-* Project to be Announced Soon.
+* Final Project to be Announced Soon.
 
 * Assignment 7 [Here](./01_ANGULAR/4_ANGULAR_HTTP#assignment-7)
 
