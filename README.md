@@ -2,13 +2,11 @@
 
 ## Updates
 
+* Project to be Announced Soon.
+
 * Assignment 7 [Here](./01_ANGULAR/4_ANGULAR_HTTP#assignment-7)
 
-* Assesment Test discussion and all your question at one place on this >>> [Youstart FB group](https://www.facebook.com/groups/Pushstarter/)
-
-* Assesment Test 2 - Wednesday (13 June); Topics - Angular CLI, Angular Basics of Binding, Angular Components, templates, Services, Routing, Pipes, JSON basics. Weightage : 50 Marks ( Double of Assesment 1)
-
-* Game of Flags - Article [Here](https://medium.com/youstart-labs/intro-to-angular-6-using-game-of-flags-8f83cba1be08) Video [Here](https://youtu.be/zCrRtjX8UQE) Code [Here]
+* [Youstart FB group](https://www.facebook.com/groups/Pushstarter/)
 
 * `FREE CODE CAMP certificate` for frontend development can be earned by any student and we will help you in cracking it. `FREE CODE CAMP certificate` is world's most popular certificate in web development and recognized world wide. [Check Out](https://www.freecodecamp.org/map#Basic-Algorithm-Scripting). You will need to complete some assignment but its worth the effort.
 * More JS practice problems added in `JS_Basics` page.
