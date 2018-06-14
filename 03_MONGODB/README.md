@@ -48,6 +48,34 @@ There can be many collections inside a database - collection is a group of docum
 
 Finally document is basic entity of storage in Mongod, it looks very similar to an object in JSON. (However it is BSON)
 
+## Using MONGODB NODE.JS DRIVER
+
+To install MONGODB NODE.JS DRIVER use this command
+
+```javascript
+npm install mongodb
+```
+
+You can setup database in Node server using following commands :
+
+```javascript
+var MongoClient = require('mongodb').MongoClient
+  , assert = require('assert');
+
+// Connection URL
+var url = 'mongodb://localhost:27017/myproject';
+
+// Use connect method to connect to the server
+MongoClient.connect(url, function(err, db) {
+  assert.equal(null, err);
+  console.log("Connected successfully to server");
+
+  db.close();
+});
+```
+
+Now this `db` handle can be used to perform any CRUD operation using MongoDB NodeJS driver.
+
 ## CRUD Functions
 
 1. Create - [Shell Version](https://docs.mongodb.com/manual/crud/#create-operations) /  [Node Version](http://mongodb.github.io/node-mongodb-native/2.2/tutorials/crud#insert-documents)
