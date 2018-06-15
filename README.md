@@ -19,3 +19,14 @@
 * Finally you can open a URL like `<yourusername>.github.io` and you will see your project 'LIVE' !!
 * Watch this video to check all steps [Youtube Link](https://youtu.be/pRdELKJK1pw)
 
+## Assesment 2 Results
+
+| Name               | Score |
+|--------------------|-------|
+| Sagar Goyal        | 37    |
+| Piyush Jain        | 30    |
+| Bhumi Shah         | 25    |
+| Vaishali Mahour    | 20    |
+| Vicky Kumar Bairwa | 20    |
+| Rishi Garg         | 18    |
+| Nitisha Jain       | 16    |
