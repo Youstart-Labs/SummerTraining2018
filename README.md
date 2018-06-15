@@ -30,3 +30,4 @@
 | Vicky Kumar Bairwa | 20    |
 | Rishi Garg         | 18    |
 | Nitisha Jain       | 16    |
+| Class Avg.         | 10.8  |
