@@ -29,5 +29,6 @@
 | Vaishali Mahour    | 20    |
 | Vicky Kumar Bairwa | 20    |
 | Rishi Garg         | 18    |
+| Mayank Tiwari      | 16    |
 | Nitisha Jain       | 16    |
-| Class Avg.         | 10.8  |
+| Class Avg.         | 11    |
