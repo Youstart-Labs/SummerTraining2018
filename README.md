@@ -8,7 +8,7 @@
 
 [Project Group Form Link](https://goo.gl/forms/YbiUiOoR54dlt8xs1)
 
-### [This is only for interested students] Apply for our projects - Minimum time commitment (6 hours per day) [ 3 hour overlap with team members at youstart ]
+### *** This is only for interested students *** Apply for our projects - (Minimum time commitment - 6 hours project work per day) [ 3 hour overlap with team members at youstart ]. There will be an interview once you fill this form.
 
 [ Form Here ](https://goo.gl/forms/6CdIB7tXCtaa9mfj2)
 
