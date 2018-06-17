@@ -2,7 +2,9 @@
 
 ## Updates
 
-### Final Project List (Apply through form link) Individual or group (max 3) is eligible to complete project. Group Leader only have to fill this form. (Not individually)
+### Team formation for final project. Group of maxium 3 is eligible to complete project. Group Leader only have to fill this form. (Not individually)
+
+[If you are only single person team - you are the group leader]
 
 [Form Link](https://goo.gl/forms/YbiUiOoR54dlt8xs1)
 
