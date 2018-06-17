@@ -2,7 +2,9 @@
 
 ## Updates
 
-* Final Project to be Announced Soon.
+### Final Project List (Apply through form link) Individual or group (max 3) is eligible to complete project. Group Leader only have to fill this form. (Not individually)
+
+[Form Link](https://goo.gl/forms/YbiUiOoR54dlt8xs1)
 
 * Assignment 7 [Here](./01_ANGULAR/4_ANGULAR_HTTP#assignment-7)
 
