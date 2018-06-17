@@ -32,6 +32,7 @@
 
 | Name               | Score |
 |--------------------|-------|
+| Mohit Sharma       | 37    |
 | Sagar Goyal        | 37    |
 | Piyush Jain        | 30    |
 | Bhumi Shah         | 25    |
