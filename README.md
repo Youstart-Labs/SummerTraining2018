@@ -42,4 +42,4 @@
 | Rishi Garg         | 18    |
 | Mayank Tiwari      | 16    |
 | Nitisha Jain       | 16    |
-| Class Avg.         | 11    |
+| Class Avg.         | 12    |
