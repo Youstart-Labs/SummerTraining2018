@@ -38,6 +38,7 @@
 | Bhumi Shah         | 25    |
 | Vaishali Mahour    | 20    |
 | Vicky Kumar Bairwa | 20    |
+| Harshita Gulwani   | 18    |
 | Rishi Garg         | 18    |
 | Mayank Tiwari      | 16    |
 | Nitisha Jain       | 16    |
