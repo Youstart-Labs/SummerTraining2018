@@ -1,0 +1,21 @@
+<div>
+  <input type="text" [(ngModel)]="t.name">
+  <select name="" id="" [(ngModel)]="t.pr">
+    <option value="H">high</option>
+    <option value="M">med</option>
+    <option value="L">low</option>
+  </select>
+  <button *ngIf="mode" (click)="t.name && t.pr && add()">Add</button>
+  <button *ngIf="!mode" (click)="t.name && t.pr && update(i)">Update</button>
+
+  <h3>Task : {{pending()}}/{{tasks.length}}</h3>
+  <ul>
+    <li (click)="toggle(task)" [ngClass]="{'done':task.status,'low':task.priority=='L','high':task.priority=='H','med':task.priority=='M'}" *ngFor="let task of tasks;let i = index">
+      <span>{{task.name}}</span>
+      <button (click)="edit(i)">edit</button>
+      <button (click)="remove(i)">X</button>
+      <span>{{task.date | date:'dd MMMM'}}</span>
+      <span> [{{task.priority}}]</span>
+    </li>
+  </ul>
+</div>
