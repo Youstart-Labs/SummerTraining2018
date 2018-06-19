@@ -85,8 +85,7 @@ Now this `db` handle can be used to perform any CRUD operation using MongoDB Nod
 
 ## Assignment 8
 
-demo:
-------
+### Increment the Number in Database
 
 * Create a simple angular Application from start. Create a single component with a Number and a button.
 * On pressing of this button - Number should be incremented.
