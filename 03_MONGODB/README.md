@@ -82,3 +82,20 @@ Now this `db` handle can be used to perform any CRUD operation using MongoDB Nod
 2. Read - [Shell Version](https://docs.mongodb.com/manual/crud/#read-operations) /  [Node Version](http://mongodb.github.io/node-mongodb-native/2.2/tutorials/crud#findoneandupdate-findoneanddelete-and-findoneandreplace)
 3. Update - [Shell Version](https://docs.mongodb.com/manual/crud/#update-operations) /  [Node Version](http://mongodb.github.io/node-mongodb-native/2.2/tutorials/crud#updating-documents)
 4. Delete - [Shell Version](https://docs.mongodb.com/manual/crud/#delete-operations) /  [Node Version](http://mongodb.github.io/node-mongodb-native/2.2/tutorials/crud#removing-documents)
+
+## Assignment 8
+
+demo:
+------
+
+* Create a simple angular Application from start. Create a single component with a Number and a button.
+* On pressing of this button - Number should be incremented.
+* Create a simple Node/Express project with a single POST API. This API should received the incremented number.
+* Connect Node server to MongoDB database using the connection code. Create a collection named "numbers". Create only one doc in that collection. Incremented number should be stored in that doc.
+
+### Final Testing
+
+1. You should be able to increment the number from browser to Database. 
+2. The number displayed on browser should come from database - not from local Javascript variable.
+3. If you close the database/ edit the database number - number on browser should change accordingly.
+
