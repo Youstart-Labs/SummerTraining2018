@@ -2,15 +2,10 @@
 
 ## Updates
 
-### Team formation for final project. Group of maxium 3 is eligible to complete project. Group Leader only have to fill this form. (Not individually)
+### Final Project Selection Form
 
-[If you are only single person team - you are the group leader]
+[Book your project soon](https://goo.gl/forms/MZO9F71a35sVuIot2)
 
-[Project Group Form Link](https://goo.gl/forms/YbiUiOoR54dlt8xs1)
-
-### *** This is only for interested students *** Apply for our projects - (Minimum time commitment - 6 hours project work per day) [ 3 hour overlap with team members at youstart ]. There will be an interview once you fill this form.
-
-[ Apply Here ](https://goo.gl/forms/6CdIB7tXCtaa9mfj2)
 
 * Assignment 8 [Here](./03_MONGODB#assignment-8)
 * Assignment 7 [Here](./01_ANGULAR/4_ANGULAR_HTTP#assignment-7)
