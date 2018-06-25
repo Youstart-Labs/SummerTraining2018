@@ -6,14 +6,11 @@
 
 [Book your project soon](https://goo.gl/forms/MZO9F71a35sVuIot2)
 
-
-* Assignment 8 [Here](./03_MONGODB#assignment-8)
-* Assignment 7 [Here](./01_ANGULAR/4_ANGULAR_HTTP#assignment-7)
+* Ionic Framework concepts summary [Here](./04_IONIC/README.md)
 
 * [Youstart FB group](https://www.facebook.com/groups/Pushstarter/)
 
 * `FREE CODE CAMP certificate` for frontend development can be earned by any student and we will help you in cracking it. `FREE CODE CAMP certificate` is world's most popular certificate in web development and recognized world wide. [Check Out](https://www.freecodecamp.org/map#Basic-Algorithm-Scripting). You will need to complete some assignment but its worth the effort.
-* More JS practice problems added in `JS_Basics` page.
 
 ## How to host your project
 
