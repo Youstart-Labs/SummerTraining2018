@@ -1,5 +1,5 @@
 {
-  "name": "expressdemo",
+  "name": "mongoosetest",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,7 +11,7 @@
   "dependencies": {
     "cors": "^2.8.4",
     "express": "^4.16.3",
-    "mongodb": "^3.0.10",
+    "mongoose": "^5.2.2",
     "morgan": "^1.9.0"
   }
 }

@@ -9,25 +9,28 @@ import {HttpClient} from '@angular/common/http';
 export class ListComponent implements OnInit {
 
   t={name:"xyz",pr:"L"}
-  tasks = []
+  tasks = [];
   mode= true;
   selectedIndex;
 
   add(){
     
-    this.http.
-    post("http://localhost:8080/task",{name:this.t.name,status:false,date:new Date(),priority:this.t.pr})
-    .subscribe((data)=>{
+    let task = {name:this.t.name,status:false,priority:this.t.pr};
+    this.http.post('http://localhost:8080/task',task).subscribe((data)=>{
         console.log(data);
+        this.tasks.push(data)
+
     })
-    this.tasks.push({name:this.t.name,status:false,date:new Date(),priority:this.t.pr})
     this.t.name="";
     this.t.pr="";
 
 
   }
-  remove(i){
+  remove(i,id){
     this.tasks.splice(i,1);
+    this.http.delete('http://localhost:8080/task/'+id).subscribe((data)=>{
+        console.log(data);
+    })
   }
   toggle(task){
     task.status = !task.status;
@@ -61,9 +64,10 @@ export class ListComponent implements OnInit {
   constructor(private http:HttpClient) { }
 
   ngOnInit() {
-      this.http.post("http://localhost:8080/tasks",{}).subscribe((data)=>{
-        this.tasks = data;
-      })
+     this.http.get('http://localhost:8080/tasks').subscribe((data:any)=>{
+         this.tasks = data;
+         console.log(data);
+     })
   }
 
 }

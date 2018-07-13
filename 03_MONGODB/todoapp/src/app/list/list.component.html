@@ -13,7 +13,7 @@
     <li (click)="toggle(task)" [ngClass]="{'done':task.status,'low':task.priority=='L','high':task.priority=='H','med':task.priority=='M'}" *ngFor="let task of tasks;let i = index">
       <span>{{task.name}}</span>
       <button (click)="edit(i)">edit</button>
-      <button (click)="remove(i)">X</button>
+      <button (click)="remove(i,task._id)">X</button>
       <span>{{task.date | date:'dd MMMM'}}</span>
       <span> [{{task.priority}}]</span>
     </li>
