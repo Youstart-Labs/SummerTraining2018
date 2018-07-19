@@ -1,0 +1,32 @@
+<div>
+
+        <div *ngIf="afAuth.user | async as user; else showLogin">
+                <h1>Hello {{ user.displayName }}!</h1>
+                <button (click)="logout()">Logout</button>
+              </div>
+              <ng-template #showLogin>
+                <p>Please login.</p>
+                <button (click)="login()">Login with Google</button>
+              </ng-template>
+    
+    <button (click)="login()">Google Login</button>
+  <input type="text" [(ngModel)]="t.name">
+  <select name="" id="" [(ngModel)]="t.pr">
+    <option value="H">high</option>
+    <option value="M">med</option>
+    <option value="L">low</option>
+  </select>
+  <button *ngIf="mode" (click)="t.name && t.pr && add()">Add</button>
+  <button *ngIf="!mode" (click)="t.name && t.pr && update(i)">Update</button>
+
+  <!-- <h3>Task : {{pending()}}/{{tasks.length}}</h3> -->
+  <ul>
+    <li (click)="toggle(task)" [ngClass]="{'done':task.status,'low':task.priority=='L','high':task.priority=='H','med':task.priority=='M'}" *ngFor="let task of tasks | async;let i = index">
+      <span>{{task.name}}</span>
+      <button (click)="edit(i)">edit</button>
+      <button (click)="remove(i,task._id)">X</button>
+      <span>{{task.date | date:'dd MMMM'}}</span>
+      <span> [{{task.priority}}]</span>
+    </li>
+  </ul>
+</div>

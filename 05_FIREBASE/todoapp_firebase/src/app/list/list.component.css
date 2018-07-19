@@ -1,0 +1,25 @@
+ul{
+  list-style: none;
+  padding:0;
+
+}
+li{
+  padding:10px;
+  background:yellow;
+  border:1px solid green;
+  margin-bottom:5px;
+
+}
+
+.high{
+  background-color: red;
+}
+.med{
+  background-color: rgb(235, 111, 111);
+}
+.low{
+  background-color: rgb(247, 191, 191);
+}
+.done{
+  background-color: green
+}
