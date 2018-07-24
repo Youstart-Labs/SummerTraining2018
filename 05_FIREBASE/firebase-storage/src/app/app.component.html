@@ -1,0 +1,11 @@
+
+<input type="file" name="avatar" (change)="uploadNodeFile($event)" enctype='multipart/form-data'>
+{{uploadPercent | async}}
+<br>
+{{profileUrl | async}}
+
+<ul>
+    <li *ngFor="let item of items | async">
+      {{ item.name }}
+    </li>
+  </ul>
