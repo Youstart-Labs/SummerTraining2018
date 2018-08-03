@@ -1,0 +1,42 @@
+<input type="text" [(ngModel)]="user.name">
+<input type="text" [(ngModel)]="user.age">
+<input type="text" [(ngModel)]="user.email">
+
+
+
+<button (click)="addUser(user)">Add User</button>
+
+<br>
+
+<input type="text" [(ngModel)]="u.email">
+<input type="text" [(ngModel)]="u.name">
+<input type="text" [(ngModel)]="u.age">
+
+<br>
+
+<button (click)="updateUser()"> Update </button>
+<input type="text" [(ngModel)]="u.email">
+<input type="text" [(ngModel)]="photo.caption">
+<input type="text" [(ngModel)]="photo.url">
+
+<button (click)="updateUserSubDoc()"> Update Photos </button>
+
+<br>
+
+<button (click)="readDocs()">Read Docs</button>
+<br>
+<li *ngFor="let usr of users | async">
+    {{usr.name}} : {{usr.age}} : {{usr.email}}
+</li>
+
+<br>
+
+<button (click)="readSubDocs()">Read SubDocs</button>
+<br>
+<li *ngFor="let p of photos | async">
+    {{p.caption}} : {{p.url}} 
+</li>
+
+<br>
+
+<button (click)="queryDocs()">read Query</button>
